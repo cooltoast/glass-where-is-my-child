@@ -12,7 +12,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.andrusiv.glass.bash" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fbada6b-4581-49f3-972e-ecd65e0e8a38" name="Default" comment="" />
+    <list default="true" id="1fbada6b-4581-49f3-972e-ecd65e0e8a38" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="glass-wimc.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -1146,8 +1148,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1366" />
-    <option name="y" value="820" />
+    <option name="y" value="52" />
     <option name="width" value="1366" />
     <option name="height" value="692" />
   </component>
@@ -1235,6 +1236,7 @@
     <property name="recentsLimit" value="5" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="T062005YJ4" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Android_43" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="Android Application.app">
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -1369,6 +1371,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1fbada6b-4581-49f3-972e-ecd65e0e8a38" name="Default" comment="" />
@@ -1378,7 +1383,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1366" y="820" width="1366" height="692" extended-state="6" />
+    <frame x="0" y="52" width="1366" height="692" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
