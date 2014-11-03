@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/mp/Development/glass-wimc/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-4d4a92844068ad8226ecf246bcc30c034f709071.jar"
+        jar="/home/mp/Development/android-sdk-linux/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156"/>
+    <item
+        dex="/home/mp/Development/glass-wimc/app/build/intermediates/pre-dexed/debug/glasslib-8eeed11d49d63ef0ab785895b21d2d7558ba8413.jar"
+        jar="/home/mp/Development/glass-wimc/app/libs/glasslib.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="1a49838986a8ac1ce5461947d3587f91c8fb5b5a"/>
+
+</pre-dex-items>
