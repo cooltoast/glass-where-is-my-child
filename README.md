@@ -16,3 +16,9 @@ locate your child with Glass
 ***
 delete old location from Glass
 ![](https://github.com/cooltoast/glass-where-is-my-child/blob/master/whereismychild2.png "delete old location")
+
+Installation
+---
+If you're like me and don't have Google Glass, [install the modded apks.](https://github.com/cooltoast/GoogleGlass#installation)
+
+Compile this project in your IDE, and find your child
