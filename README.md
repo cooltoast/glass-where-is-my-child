@@ -22,3 +22,5 @@ Installation
 If you're like me and don't have Google Glass, [install the modded apks.](https://github.com/cooltoast/GoogleGlass#installation)
 
 Compile this project in your IDE, and find your child
+
+This project is derived from [Ukrbash-for-glass](https://github.com/pif/ukrbash-for-glass)
