@@ -9,13 +9,13 @@ know where your child is
 
 ***
 request an update from Glass
-![](https://github.com/cooltoast/glass-where-is-my-child/blob/master/whereismychild1.png "request an update")
+![](whereismychild1.png "request an update")
 ***
 locate your child with Glass
-![](https://github.com/cooltoast/glass-where-is-my-child/blob/master/whereismychild3.png "locate your child")
+![](whereismychild3.png "locate your child")
 ***
 delete old location from Glass
-![](https://github.com/cooltoast/glass-where-is-my-child/blob/master/whereismychild2.png "delete old location")
+![](whereismychild2.png "delete old location")
 
 Installation
 ---
