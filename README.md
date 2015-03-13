@@ -14,7 +14,7 @@ request an update from Glass
 locate your child with Glass
 ![](whereismychild3.png "locate your child")
 ***
-delete old location from Glass
+delete old location card from Glass
 ![](whereismychild2.png "delete old location")
 
 Installation
